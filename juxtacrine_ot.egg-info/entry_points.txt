@@ -1,0 +1,2 @@
+[console_scripts]
+xenium-filter = juxtacrine_ot.cli.xenium_filter:main
